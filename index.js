@@ -10,7 +10,11 @@ app.use(bodyParser.json());
 
 // Connect to MongoDB
 
-mongoose.connect('mongodb://127.0.0.1:27017/bookstore1', {
+// mongoose.connect('mongodb://127.0.0.1:27017/bookstore1', {
+//     // useNewUrlParser: true,
+//     // useUnifiedTopology: true,
+// });
+mongoose.connect('mongodb+srv://agholincoln:OgZjeYLxA4IMDl9L@cluster0.hqjolez.mongodb.net/', {
     // useNewUrlParser: true,
     // useUnifiedTopology: true,
 });
