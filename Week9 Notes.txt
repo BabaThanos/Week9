@@ -1,0 +1,4 @@
+What is JWT(JSON Web Token)?
+
+- It will be in the next Assignment and Exam
+It is basically kind of like password verification. This makes it so that when someone types in your endpoint in a URL, it will go through a JWT and make sure the token data is the same as the one in the back end

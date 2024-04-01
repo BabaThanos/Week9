@@ -1,0 +1,8 @@
+Step 1: Open MongoDB Compass
+Step 2: Open MongoSH
+Step 3: Inside MongoSH you want to hit enter and it will start the server
+Step 4: You want to open a Windows Powershell
+Step 5: You type the following commands
+
+-mongod = This command is like opening doors to the database and allows for it to listen to whatever data is introduced
+-mongosh = This command lets you see the data that is stored inside the database, and it is running in the shell unit
